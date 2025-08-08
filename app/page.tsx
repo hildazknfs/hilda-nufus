@@ -4,10 +4,6 @@ import { useState } from "react";
 import {
   ArrowRight,
   ExternalLink,
-  Github,
-  Linkedin,
-  Mail,
-  MapPin,
 } from "lucide-react";
 import Image from "next/image";
 
