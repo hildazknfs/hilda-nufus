@@ -294,15 +294,15 @@ export default function Portfolio() {
 
       {/* About Section */}
       {activeSection === "about" && (
-        <section className="px-8 pb-20">
-          <div className="max-w-4xl mx-auto">
+        <section className="px-10 pb-20">
+          <div className="max-w-6xl mx-auto">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-20">
-              <div className="space-y-6">
+              <div className="space-y-6 max-w-sm">
                 <div>
-                  <p className="text-lg font-semibold text-gray-800">
+                  <p className="text-lg font-semibold tracking-tight mb-6">
                     Hi, my name is Hilda!
                   </p>
-                  <p className="text-sm text-gray-700 leading-relaxed mt-4">
+                  <p className="text-sm text-gray-700 leading-relaxed mt-4 text-justify">
                     I’m an Information Security and Technology Professional with
                     experience in GRC initiatives like ISO 27001 implementation,
                     access reviews, and vendor risk assessments. I focus on
