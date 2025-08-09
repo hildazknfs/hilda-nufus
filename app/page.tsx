@@ -172,7 +172,7 @@ export default function Portfolio() {
             </div>
             <div>
               <h2 className="text-5xl lg:text-6xl font-light leading-[1.1] tracking-tight text-gray-400">
-                Information Security Engineering.
+                Information Security & Engineering.
               </h2>
               <p className="mt-6 text-sm text-gray-500">
                 Jakarta, Indonesia ·{" "}
