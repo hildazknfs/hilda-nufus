@@ -78,7 +78,7 @@ export default function Portfolio() {
       {/* Navigation */}
       <nav className="flex justify-between items-center px-8 py-12">
         <div className="text-sm font-normal tracking-tight">
-          Hilda Zakiatun Nufus
+          Hilda Nufus
         </div>
         <div className="flex gap-8">
           <button
