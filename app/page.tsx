@@ -328,7 +328,7 @@ export default function Portfolio() {
               <div className="space-y-12">
                 <div>
                   <h3 className="text-lg font-normal tracking-tight mb-6">
-                    Skills
+                    Tech Stack & Skills
                   </h3>
                   <div className="space-y-6">
                     <div>
